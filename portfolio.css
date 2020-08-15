@@ -1,10 +1,13 @@
 .jumbotron {
 background: rgb(67, 67, 68);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,75,121,1) 14%, rgba(34,185,171,0.989233193277311) 57%, rgba(39,208,181,1) 66%);
+
 }
 
 h1 {
     color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
 }
 
 .nav-item {
@@ -13,4 +16,7 @@ h1 {
 
 .nav-link {
     color: #22b9ab;
+    font-family: 'Lobster', cursive;
+font-family: 'Nanum Gothic', sans-serif;
+margin-left: 100px;
 }
