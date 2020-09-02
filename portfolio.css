@@ -2,11 +2,17 @@
     background: rgb(67, 67, 68);
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 75, 121, 1) 14%, rgba(34, 185, 171, 0.989233193277311) 57%, rgba(39, 208, 181, 1) 66%);
     text-align: center;
+    padding-top: 400px;
+    padding-bottom: 32px;
+    min-height: 300px;
 }
+
 
 h1 {
     color: white;
     font-family: 'Lobster', cursive;
+    padding-top: 64px;
+    font-size: 800px;
 }
 
 .nav-item {
@@ -18,4 +24,19 @@ h1 {
     font-family: 'Lobster', cursive;
     font-family: 'Nanum Gothic', sans-serif;
     margin-left: 100px;
+    margin-right: 70%;
 }
+
+.circle {
+    background-color: #006565;   
+    height: 165px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    width: 165px;
+    margin: 120px auto 32px auto;
+    text-align: center;
+}
+
+
+
